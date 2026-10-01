@@ -295,7 +295,7 @@ Users can filter the analysis by company and fiscal year.
 
 ### Preview
 
-![Financial Overview](powerbi/financial-overview.png)
+![Financial Overview](powerbi/financial-overview.jpg)
 
 ---
 
