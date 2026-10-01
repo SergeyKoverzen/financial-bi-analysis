@@ -1,1 +1,168 @@
-
+company,fiscal_year,metric,value,unit,period_start,period_end,period_type,form,filed,source
+Apple,2006,Cash,6392000000,USD,,2006-09-30,point_in_time,10-K,2009-10-27,SEC Company Facts
+Apple,2006,Equity,9984000000,USD,,2006-09-30,point_in_time,10-K,2009-10-27,SEC Company Facts
+Apple,2007,Cash,9352000000,USD,,2007-09-29,point_in_time,10-K,2010-10-27,SEC Company Facts
+Apple,2007,Equity,14531000000,USD,,2007-09-29,point_in_time,10-K,2010-10-27,SEC Company Facts
+Apple,2007,Gross Profit,8154000000,USD,2006-10-01,2007-09-29,annual,10-K,2009-10-27,SEC Company Facts
+Apple,2007,Net Income,3496000000,USD,2006-10-01,2007-09-29,annual,10-K,2009-10-27,SEC Company Facts
+Apple,2007,Operating Cash Flow,5470000000,USD,2006-10-01,2007-09-29,annual,10-K,2009-10-27,SEC Company Facts
+Apple,2007,Operating Income,4409000000,USD,2006-10-01,2007-09-29,annual,10-K,2009-10-27,SEC Company Facts
+Apple,2008,Assets,36171000000,USD,,2008-09-27,point_in_time,10-K,2010-10-27,SEC Company Facts
+Apple,2008,Cash,11875000000,USD,,2008-09-27,point_in_time,10-K,2011-10-26,SEC Company Facts
+Apple,2008,Equity,22297000000,USD,,2008-09-27,point_in_time,10-K,2011-10-26,SEC Company Facts
+Apple,2008,Gross Profit,13197000000,USD,2007-09-30,2008-09-27,annual,10-K,2010-10-27,SEC Company Facts
+Apple,2008,Liabilities,18542000000,USD,,2008-09-27,point_in_time,10-K,2009-10-27,SEC Company Facts
+Apple,2008,Net Income,6119000000,USD,2007-09-30,2008-09-27,annual,10-K,2010-10-27,SEC Company Facts
+Apple,2008,Operating Cash Flow,9596000000,USD,2007-09-30,2008-09-27,annual,10-K,2010-10-27,SEC Company Facts
+Apple,2008,Operating Income,8327000000,USD,2007-09-30,2008-09-27,annual,10-K,2010-10-27,SEC Company Facts
+Apple,2009,Assets,47501000000,USD,,2009-09-26,point_in_time,10-K,2011-10-26,SEC Company Facts
+Apple,2009,Cash,5263000000,USD,,2009-09-26,point_in_time,10-K,2012-10-31,SEC Company Facts
+Apple,2009,Equity,31640000000,USD,,2009-09-26,point_in_time,10-K,2012-10-31,SEC Company Facts
+Apple,2009,Gross Profit,17222000000,USD,2008-09-28,2009-09-26,annual,10-K,2011-10-26,SEC Company Facts
+Apple,2009,Liabilities,15861000000,USD,,2009-09-26,point_in_time,10-K,2010-10-27,SEC Company Facts
+Apple,2009,Net Income,8235000000,USD,2008-09-28,2009-09-26,annual,10-K,2011-10-26,SEC Company Facts
+Apple,2009,Operating Cash Flow,10159000000,USD,2008-09-28,2009-09-26,annual,10-K,2011-10-26,SEC Company Facts
+Apple,2009,Operating Income,11740000000,USD,2008-09-28,2009-09-26,annual,10-K,2011-10-26,SEC Company Facts
+Apple,2010,Assets,75183000000,USD,,2010-09-25,point_in_time,10-K,2011-10-26,SEC Company Facts
+Apple,2010,Cash,11261000000,USD,,2010-09-25,point_in_time,10-K,2013-10-30,SEC Company Facts
+Apple,2010,Equity,47791000000,USD,,2010-09-25,point_in_time,10-K,2013-10-30,SEC Company Facts
+Apple,2010,Gross Profit,25684000000,USD,2009-09-27,2010-09-25,annual,10-K,2012-10-31,SEC Company Facts
+Apple,2010,Liabilities,27392000000,USD,,2010-09-25,point_in_time,10-K,2011-10-26,SEC Company Facts
+Apple,2010,Net Income,14013000000,USD,2009-09-27,2010-09-25,annual,10-K,2012-10-31,SEC Company Facts
+Apple,2010,Operating Cash Flow,18595000000,USD,2009-09-27,2010-09-25,annual,10-K,2012-10-31,SEC Company Facts
+Apple,2010,Operating Income,18385000000,USD,2009-09-27,2010-09-25,annual,10-K,2012-10-31,SEC Company Facts
+Apple,2011,Assets,116371000000,USD,,2011-09-24,point_in_time,10-K,2012-10-31,SEC Company Facts
+Apple,2011,Cash,9815000000,USD,,2011-09-24,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2011,Equity,76615000000,USD,,2011-09-24,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2011,Gross Profit,43818000000,USD,2010-09-26,2011-09-24,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2011,Liabilities,39756000000,USD,,2011-09-24,point_in_time,10-K,2012-10-31,SEC Company Facts
+Apple,2011,Net Income,25922000000,USD,2010-09-26,2011-09-24,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2011,Operating Cash Flow,37529000000,USD,2010-09-26,2011-09-24,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2011,Operating Income,33790000000,USD,2010-09-26,2011-09-24,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2012,Assets,176064000000,USD,,2012-09-29,point_in_time,10-K,2013-10-30,SEC Company Facts
+Apple,2012,Cash,10746000000,USD,,2012-09-29,point_in_time,10-K,2015-10-28,SEC Company Facts
+Apple,2012,Equity,118210000000,USD,,2012-09-29,point_in_time,10-K,2015-10-28,SEC Company Facts
+Apple,2012,Gross Profit,68662000000,USD,2011-09-25,2012-09-29,annual,10-K,2014-10-27,SEC Company Facts
+Apple,2012,Liabilities,57854000000,USD,,2012-09-29,point_in_time,10-K,2013-10-30,SEC Company Facts
+Apple,2012,Long Term Debt,0,USD,,2012-09-29,point_in_time,10-K,2013-10-30,SEC Company Facts
+Apple,2012,Net Income,41733000000,USD,2011-09-25,2012-09-29,annual,10-K,2014-10-27,SEC Company Facts
+Apple,2012,Operating Cash Flow,50856000000,USD,2011-09-25,2012-09-29,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2012,Operating Income,55241000000,USD,2011-09-25,2012-09-29,annual,10-K,2014-10-27,SEC Company Facts
+Apple,2013,Assets,207000000000,USD,,2013-09-28,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2013,Cash,14259000000,USD,,2013-09-28,point_in_time,10-K,2016-10-26,SEC Company Facts
+Apple,2013,Equity,123549000000,USD,,2013-09-28,point_in_time,10-K,2016-10-26,SEC Company Facts
+Apple,2013,Gross Profit,64304000000,USD,2012-09-30,2013-09-28,annual,10-K,2015-10-28,SEC Company Facts
+Apple,2013,Liabilities,83451000000,USD,,2013-09-28,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2013,Long Term Debt,16960000000,USD,,2013-09-28,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2013,Net Income,37037000000,USD,2012-09-30,2013-09-28,annual,10-K,2015-10-28,SEC Company Facts
+Apple,2013,Operating Cash Flow,53666000000,USD,2012-09-30,2013-09-28,annual,10-K,2013-10-30,SEC Company Facts
+Apple,2013,Operating Income,48999000000,USD,2012-09-30,2013-09-28,annual,10-K,2015-10-28,SEC Company Facts
+Apple,2014,Assets,231839000000,USD,,2014-09-27,point_in_time,10-K,2015-10-28,SEC Company Facts
+Apple,2014,Cash,13844000000,USD,,2014-09-27,point_in_time,10-K,2017-11-03,SEC Company Facts
+Apple,2014,Equity,111547000000,USD,,2014-09-27,point_in_time,10-K,2017-11-03,SEC Company Facts
+Apple,2014,Gross Profit,70537000000,USD,2013-09-29,2014-09-27,annual,10-K,2016-10-26,SEC Company Facts
+Apple,2014,Liabilities,120292000000,USD,,2014-09-27,point_in_time,10-K,2015-10-28,SEC Company Facts
+Apple,2014,Long Term Debt,28987000000,USD,,2014-09-27,point_in_time,10-K,2014-10-27,SEC Company Facts
+Apple,2014,Net Income,39510000000,USD,2013-09-29,2014-09-27,annual,10-K,2016-10-26,SEC Company Facts
+Apple,2014,Operating Income,52503000000,USD,2013-09-29,2014-09-27,annual,10-K,2016-10-26,SEC Company Facts
+Apple,2015,Assets,290345000000,USD,,2015-09-26,point_in_time,10-K,2016-10-26,SEC Company Facts
+Apple,2015,Cash,21120000000,USD,,2015-09-26,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2015,Equity,119355000000,USD,,2015-09-26,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2015,Gross Profit,93626000000,USD,2014-09-28,2015-09-26,annual,10-K,2017-11-03,SEC Company Facts
+Apple,2015,Liabilities,170990000000,USD,,2015-09-26,point_in_time,10-K,2016-10-26,SEC Company Facts
+Apple,2015,Net Income,53394000000,USD,2014-09-28,2015-09-26,annual,10-K,2017-11-03,SEC Company Facts
+Apple,2015,Operating Cash Flow,81266000000,USD,2014-09-28,2015-09-26,annual,10-K,2017-11-03,SEC Company Facts
+Apple,2015,Operating Income,71230000000,USD,2014-09-28,2015-09-26,annual,10-K,2017-11-03,SEC Company Facts
+Apple,2016,Assets,321686000000,USD,,2016-09-24,point_in_time,10-K,2017-11-03,SEC Company Facts
+Apple,2016,Cash,20484000000,USD,,2016-09-24,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2016,Equity,128249000000,USD,,2016-09-24,point_in_time,10-K,2019-10-31,SEC Company Facts
+Apple,2016,Gross Profit,84263000000,USD,2015-09-27,2016-09-24,annual,10-K,2018-11-05,SEC Company Facts
+Apple,2016,Liabilities,193437000000,USD,,2016-09-24,point_in_time,10-K,2017-11-03,SEC Company Facts
+Apple,2016,Net Income,45687000000,USD,2015-09-27,2016-09-24,annual,10-K,2018-11-05,SEC Company Facts
+Apple,2016,Operating Cash Flow,66231000000,USD,2015-09-27,2016-09-24,annual,10-K,2018-11-05,SEC Company Facts
+Apple,2016,Operating Income,60024000000,USD,2015-09-27,2016-09-24,annual,10-K,2018-11-05,SEC Company Facts
+Apple,2017,Assets,375319000000,USD,,2017-09-30,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2017,Cash,20289000000,USD,,2017-09-30,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2017,Equity,134047000000,USD,,2017-09-30,point_in_time,10-K,2020-10-30,SEC Company Facts
+Apple,2017,Gross Profit,88186000000,USD,2016-09-25,2017-09-30,annual,10-K,2019-10-31,SEC Company Facts
+Apple,2017,Liabilities,241272000000,USD,,2017-09-30,point_in_time,10-K,2018-11-05,SEC Company Facts
+Apple,2017,Net Income,48351000000,USD,2016-09-25,2017-09-30,annual,10-K,2019-10-31,SEC Company Facts
+Apple,2017,Operating Cash Flow,64225000000,USD,2016-09-25,2017-09-30,annual,10-K,2019-10-31,SEC Company Facts
+Apple,2017,Operating Income,61344000000,USD,2016-09-25,2017-09-30,annual,10-K,2019-10-31,SEC Company Facts
+Apple,2017,Revenue,229234000000,USD,2016-09-25,2017-09-30,annual,10-K,2019-10-31,SEC Company Facts
+Apple,2018,Assets,365725000000,USD,,2018-09-29,point_in_time,10-K,2019-10-31,SEC Company Facts
+Apple,2018,Cash,25913000000,USD,,2018-09-29,point_in_time,10-K,2019-10-31,SEC Company Facts
+Apple,2018,Equity,107147000000,USD,,2018-09-29,point_in_time,10-K,2021-10-29,SEC Company Facts
+Apple,2018,Gross Profit,101839000000,USD,2017-10-01,2018-09-29,annual,10-K,2020-10-30,SEC Company Facts
+Apple,2018,Liabilities,258578000000,USD,,2018-09-29,point_in_time,10-K,2019-10-31,SEC Company Facts
+Apple,2018,Net Income,59531000000,USD,2017-10-01,2018-09-29,annual,10-K,2020-10-30,SEC Company Facts
+Apple,2018,Operating Cash Flow,77434000000,USD,2017-10-01,2018-09-29,annual,10-K,2020-10-30,SEC Company Facts
+Apple,2018,Operating Income,70898000000,USD,2017-10-01,2018-09-29,annual,10-K,2020-10-30,SEC Company Facts
+Apple,2018,Revenue,265595000000,USD,2017-10-01,2018-09-29,annual,10-K,2020-10-30,SEC Company Facts
+Apple,2019,Assets,338516000000,USD,,2019-09-28,point_in_time,10-K,2020-10-30,SEC Company Facts
+Apple,2019,Cash,48844000000,USD,,2019-09-28,point_in_time,10-K,2020-10-30,SEC Company Facts
+Apple,2019,Equity,90488000000,USD,,2019-09-28,point_in_time,10-K,2022-10-28,SEC Company Facts
+Apple,2019,Gross Profit,98392000000,USD,2018-09-30,2019-09-28,annual,10-K,2021-10-29,SEC Company Facts
+Apple,2019,Liabilities,248028000000,USD,,2019-09-28,point_in_time,10-K,2020-10-30,SEC Company Facts
+Apple,2019,Net Income,55256000000,USD,2018-09-30,2019-09-28,annual,10-K,2021-10-29,SEC Company Facts
+Apple,2019,Operating Cash Flow,69391000000,USD,2018-09-30,2019-09-28,annual,10-K,2021-10-29,SEC Company Facts
+Apple,2019,Operating Income,63930000000,USD,2018-09-30,2019-09-28,annual,10-K,2021-10-29,SEC Company Facts
+Apple,2019,Revenue,260174000000,USD,2018-09-30,2019-09-28,annual,10-K,2021-10-29,SEC Company Facts
+Apple,2020,Assets,323888000000,USD,,2020-09-26,point_in_time,10-K,2021-10-29,SEC Company Facts
+Apple,2020,Cash,38016000000,USD,,2020-09-26,point_in_time,10-K,2021-10-29,SEC Company Facts
+Apple,2020,Equity,65339000000,USD,,2020-09-26,point_in_time,10-K,2023-11-03,SEC Company Facts
+Apple,2020,Gross Profit,104956000000,USD,2019-09-29,2020-09-26,annual,10-K,2022-10-28,SEC Company Facts
+Apple,2020,Liabilities,258549000000,USD,,2020-09-26,point_in_time,10-K,2021-10-29,SEC Company Facts
+Apple,2020,Net Income,57411000000,USD,2019-09-29,2020-09-26,annual,10-K,2022-10-28,SEC Company Facts
+Apple,2020,Operating Cash Flow,80674000000,USD,2019-09-29,2020-09-26,annual,10-K,2022-10-28,SEC Company Facts
+Apple,2020,Operating Income,66288000000,USD,2019-09-29,2020-09-26,annual,10-K,2022-10-28,SEC Company Facts
+Apple,2020,Revenue,274515000000,USD,2019-09-29,2020-09-26,annual,10-K,2022-10-28,SEC Company Facts
+Apple,2021,Assets,351002000000,USD,,2021-09-25,point_in_time,10-K,2022-10-28,SEC Company Facts
+Apple,2021,Cash,34940000000,USD,,2021-09-25,point_in_time,10-K,2022-10-28,SEC Company Facts
+Apple,2021,Equity,63090000000,USD,,2021-09-25,point_in_time,10-K,2024-11-01,SEC Company Facts
+Apple,2021,Gross Profit,152836000000,USD,2020-09-27,2021-09-25,annual,10-K,2023-11-03,SEC Company Facts
+Apple,2021,Liabilities,287912000000,USD,,2021-09-25,point_in_time,10-K,2022-10-28,SEC Company Facts
+Apple,2021,Net Income,94680000000,USD,2020-09-27,2021-09-25,annual,10-K,2023-11-03,SEC Company Facts
+Apple,2021,Operating Cash Flow,104038000000,USD,2020-09-27,2021-09-25,annual,10-K,2023-11-03,SEC Company Facts
+Apple,2021,Operating Income,108949000000,USD,2020-09-27,2021-09-25,annual,10-K,2023-11-03,SEC Company Facts
+Apple,2021,Revenue,365817000000,USD,2020-09-27,2021-09-25,annual,10-K,2023-11-03,SEC Company Facts
+Apple,2022,Assets,352755000000,USD,,2022-09-24,point_in_time,10-K,2023-11-03,SEC Company Facts
+Apple,2022,Cash,23646000000,USD,,2022-09-24,point_in_time,10-K,2023-11-03,SEC Company Facts
+Apple,2022,Equity,50672000000,USD,,2022-09-24,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2022,Gross Profit,170782000000,USD,2021-09-26,2022-09-24,annual,10-K,2024-11-01,SEC Company Facts
+Apple,2022,Liabilities,302083000000,USD,,2022-09-24,point_in_time,10-K,2023-11-03,SEC Company Facts
+Apple,2022,Long Term Debt,110087000000,USD,,2022-09-24,point_in_time,10-K,2023-11-03,SEC Company Facts
+Apple,2022,Net Income,99803000000,USD,2021-09-26,2022-09-24,annual,10-K,2024-11-01,SEC Company Facts
+Apple,2022,Operating Cash Flow,122151000000,USD,2021-09-26,2022-09-24,annual,10-K,2024-11-01,SEC Company Facts
+Apple,2022,Operating Income,119437000000,USD,2021-09-26,2022-09-24,annual,10-K,2024-11-01,SEC Company Facts
+Apple,2022,Revenue,394328000000,USD,2021-09-26,2022-09-24,annual,10-K,2024-11-01,SEC Company Facts
+Apple,2023,Assets,352583000000,USD,,2023-09-30,point_in_time,10-K,2024-11-01,SEC Company Facts
+Apple,2023,Cash,29965000000,USD,,2023-09-30,point_in_time,10-K,2024-11-01,SEC Company Facts
+Apple,2023,Equity,62146000000,USD,,2023-09-30,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2023,Gross Profit,169148000000,USD,2022-09-25,2023-09-30,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2023,Liabilities,290437000000,USD,,2023-09-30,point_in_time,10-K,2024-11-01,SEC Company Facts
+Apple,2023,Long Term Debt,105103000000,USD,,2023-09-30,point_in_time,10-K,2024-11-01,SEC Company Facts
+Apple,2023,Net Income,96995000000,USD,2022-09-25,2023-09-30,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2023,Operating Cash Flow,110543000000,USD,2022-09-25,2023-09-30,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2023,Operating Income,114301000000,USD,2022-09-25,2023-09-30,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2023,Revenue,383285000000,USD,2022-09-25,2023-09-30,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Assets,364980000000,USD,,2024-09-28,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Cash,29943000000,USD,,2024-09-28,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Equity,56950000000,USD,,2024-09-28,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Gross Profit,180683000000,USD,2023-10-01,2024-09-28,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Liabilities,308030000000,USD,,2024-09-28,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Long Term Debt,96662000000,USD,,2024-09-28,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Net Income,93736000000,USD,2023-10-01,2024-09-28,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Operating Cash Flow,118254000000,USD,2023-10-01,2024-09-28,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Operating Income,123216000000,USD,2023-10-01,2024-09-28,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2024,Revenue,391035000000,USD,2023-10-01,2024-09-28,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Assets,359241000000,USD,,2025-09-27,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Cash,35934000000,USD,,2025-09-27,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Equity,73733000000,USD,,2025-09-27,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Gross Profit,195201000000,USD,2024-09-29,2025-09-27,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Liabilities,285508000000,USD,,2025-09-27,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Long Term Debt,90678000000,USD,,2025-09-27,point_in_time,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Net Income,112010000000,USD,2024-09-29,2025-09-27,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Operating Cash Flow,111482000000,USD,2024-09-29,2025-09-27,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Operating Income,133050000000,USD,2024-09-29,2025-09-27,annual,10-K,2025-10-31,SEC Company Facts
+Apple,2025,Revenue,416161000000,USD,2024-09-29,2025-09-27,annual,10-K,2025-10-31,SEC Company Facts

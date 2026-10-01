@@ -1,0 +1,188 @@
+company,fiscal_year,metric,value,unit,period_start,period_end,period_type,form,filed,source
+Amazon,2006,Cash,1022000000,USD,,2006-12-31,point_in_time,10-K,2010-01-29,SEC Company Facts
+Amazon,2006,Equity,431000000,USD,,2006-12-31,point_in_time,10-K,2010-01-29,SEC Company Facts
+Amazon,2007,Cash,2539000000,USD,,2007-12-31,point_in_time,10-K,2011-01-28,SEC Company Facts
+Amazon,2007,Cost of Revenue,11482000000,USD,2007-01-01,2007-12-31,annual,10-K,2010-01-29,SEC Company Facts
+Amazon,2007,Equity,1197000000,USD,,2007-12-31,point_in_time,10-K,2011-01-28,SEC Company Facts
+Amazon,2007,Net Income,476000000,USD,2007-01-01,2007-12-31,annual,10-K,2010-01-29,SEC Company Facts
+Amazon,2007,Operating Cash Flow,1405000000,USD,2007-01-01,2007-12-31,annual,10-K,2010-01-29,SEC Company Facts
+Amazon,2007,Operating Income,655000000,USD,2007-01-01,2007-12-31,annual,10-K,2010-01-29,SEC Company Facts
+Amazon,2008,Assets,8314000000,USD,,2008-12-31,point_in_time,10-K,2010-01-29,SEC Company Facts
+Amazon,2008,Cash,2769000000,USD,,2008-12-31,point_in_time,10-K,2012-02-01,SEC Company Facts
+Amazon,2008,Cost of Revenue,14896000000,USD,2008-01-01,2008-12-31,annual,10-K,2011-01-28,SEC Company Facts
+Amazon,2008,Equity,2672000000,USD,,2008-12-31,point_in_time,10-K,2012-02-01,SEC Company Facts
+Amazon,2008,Liabilities,5642000000,USD,,2008-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2008,Net Income,645000000,USD,2008-01-01,2008-12-31,annual,10-K,2011-01-28,SEC Company Facts
+Amazon,2008,Operating Cash Flow,1697000000,USD,2008-01-01,2008-12-31,annual,10-K,2011-01-28,SEC Company Facts
+Amazon,2008,Operating Income,842000000,USD,2008-01-01,2008-12-31,annual,10-K,2011-01-28,SEC Company Facts
+Amazon,2009,Assets,13813000000,USD,,2009-12-31,point_in_time,10-K,2011-01-28,SEC Company Facts
+Amazon,2009,Cash,3444000000,USD,,2009-12-31,point_in_time,10-K,2013-01-30,SEC Company Facts
+Amazon,2009,Cost of Revenue,18978000000,USD,2009-01-01,2009-12-31,annual,10-K,2012-02-01,SEC Company Facts
+Amazon,2009,Equity,5257000000,USD,,2009-12-31,point_in_time,10-K,2013-01-30,SEC Company Facts
+Amazon,2009,Liabilities,8556000000,USD,,2009-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2009,Net Income,902000000,USD,2009-01-01,2009-12-31,annual,10-K,2012-02-01,SEC Company Facts
+Amazon,2009,Operating Cash Flow,3293000000,USD,2009-01-01,2009-12-31,annual,10-K,2012-02-01,SEC Company Facts
+Amazon,2009,Operating Income,1129000000,USD,2009-01-01,2009-12-31,annual,10-K,2012-02-01,SEC Company Facts
+Amazon,2010,Assets,18797000000,USD,,2010-12-31,point_in_time,10-K,2012-02-01,SEC Company Facts
+Amazon,2010,Cash,3777000000,USD,,2010-12-31,point_in_time,10-K,2014-01-31,SEC Company Facts
+Amazon,2010,Cost of Revenue,26561000000,USD,2010-01-01,2010-12-31,annual,10-K,2013-01-30,SEC Company Facts
+Amazon,2010,Equity,6864000000,USD,,2010-12-31,point_in_time,10-K,2014-01-31,SEC Company Facts
+Amazon,2010,Liabilities,11933000000,USD,,2010-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2010,Net Income,1152000000,USD,2010-01-01,2010-12-31,annual,10-K,2013-01-30,SEC Company Facts
+Amazon,2010,Operating Cash Flow,3495000000,USD,2010-01-01,2010-12-31,annual,10-K,2013-01-30,SEC Company Facts
+Amazon,2010,Operating Income,1406000000,USD,2010-01-01,2010-12-31,annual,10-K,2013-01-30,SEC Company Facts
+Amazon,2011,Assets,25278000000,USD,,2011-12-31,point_in_time,10-K,2013-01-30,SEC Company Facts
+Amazon,2011,Cash,5269000000,USD,,2011-12-31,point_in_time,10-K,2015-01-30,SEC Company Facts
+Amazon,2011,Cost of Revenue,37288000000,USD,2011-01-01,2011-12-31,annual,10-K,2014-01-31,SEC Company Facts
+Amazon,2011,Equity,7757000000,USD,,2011-12-31,point_in_time,10-K,2015-01-30,SEC Company Facts
+Amazon,2011,Liabilities,17521000000,USD,,2011-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2011,Long Term Debt,384000000,USD,,2011-12-31,point_in_time,10-K,2013-01-30,SEC Company Facts
+Amazon,2011,Net Income,631000000,USD,2011-01-01,2011-12-31,annual,10-K,2014-01-31,SEC Company Facts
+Amazon,2011,Operating Cash Flow,3903000000,USD,2011-01-01,2011-12-31,annual,10-K,2014-01-31,SEC Company Facts
+Amazon,2011,Operating Income,862000000,USD,2011-01-01,2011-12-31,annual,10-K,2014-01-31,SEC Company Facts
+Amazon,2012,Assets,32555000000,USD,,2012-12-31,point_in_time,10-K,2014-01-31,SEC Company Facts
+Amazon,2012,Cash,8084000000,USD,,2012-12-31,point_in_time,10-K,2016-01-29,SEC Company Facts
+Amazon,2012,Cost of Revenue,45971000000,USD,2012-01-01,2012-12-31,annual,10-K,2015-01-30,SEC Company Facts
+Amazon,2012,Equity,8192000000,USD,,2012-12-31,point_in_time,10-K,2016-01-29,SEC Company Facts
+Amazon,2012,Liabilities,24363000000,USD,,2012-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2012,Long Term Debt,3691000000,USD,,2012-12-31,point_in_time,10-K,2014-01-31,SEC Company Facts
+Amazon,2012,Net Income,-39000000,USD,2012-01-01,2012-12-31,annual,10-K,2015-01-30,SEC Company Facts
+Amazon,2012,Operating Cash Flow,4180000000,USD,2012-01-01,2012-12-31,annual,10-K,2015-01-30,SEC Company Facts
+Amazon,2012,Operating Income,676000000,USD,2012-01-01,2012-12-31,annual,10-K,2015-01-30,SEC Company Facts
+Amazon,2013,Assets,40159000000,USD,,2013-12-31,point_in_time,10-K,2016-01-29,SEC Company Facts
+Amazon,2013,Cash,8658000000,USD,,2013-12-31,point_in_time,10-K,2017-02-10,SEC Company Facts
+Amazon,2013,Cost of Revenue,54181000000,USD,2013-01-01,2013-12-31,annual,10-K,2016-01-29,SEC Company Facts
+Amazon,2013,Equity,9746000000,USD,,2013-12-31,point_in_time,10-K,2017-02-10,SEC Company Facts
+Amazon,2013,Liabilities,30413000000,USD,,2013-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2013,Long Term Debt,3967000000,USD,,2013-12-31,point_in_time,10-K,2015-01-30,SEC Company Facts
+Amazon,2013,Net Income,274000000,USD,2013-01-01,2013-12-31,annual,10-K,2016-01-29,SEC Company Facts
+Amazon,2013,Operating Cash Flow,5475000000,USD,2013-01-01,2013-12-31,annual,10-K,2016-01-29,SEC Company Facts
+Amazon,2013,Operating Income,745000000,USD,2013-01-01,2013-12-31,annual,10-K,2016-01-29,SEC Company Facts
+Amazon,2014,Assets,54505000000,USD,,2014-12-31,point_in_time,10-K,2017-02-10,SEC Company Facts
+Amazon,2014,Cash,14557000000,USD,,2014-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2014,Cost of Revenue,62752000000,USD,2014-01-01,2014-12-31,annual,10-K,2017-02-10,SEC Company Facts
+Amazon,2014,Equity,10741000000,USD,,2014-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2014,Liabilities,43764000000,USD,,2014-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2014,Long Term Debt,9881000000,USD,,2014-12-31,point_in_time,10-K,2016-01-29,SEC Company Facts
+Amazon,2014,Net Income,-241000000,USD,2014-01-01,2014-12-31,annual,10-K,2017-02-10,SEC Company Facts
+Amazon,2014,Operating Cash Flow,6842000000,USD,2014-01-01,2014-12-31,annual,10-K,2017-02-10,SEC Company Facts
+Amazon,2014,Operating Income,178000000,USD,2014-01-01,2014-12-31,annual,10-K,2017-02-10,SEC Company Facts
+Amazon,2015,Assets,64747000000,USD,,2015-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2015,Cash,15890000000,USD,,2015-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2015,Cost of Revenue,71651000000,USD,2015-01-01,2015-12-31,annual,10-K,2018-02-02,SEC Company Facts
+Amazon,2015,Equity,13384000000,USD,,2015-12-31,point_in_time,10-K,2019-02-01,SEC Company Facts
+Amazon,2015,Liabilities,51363000000,USD,,2015-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2015,Long Term Debt,8562000000,USD,,2015-12-31,point_in_time,10-K,2017-02-10,SEC Company Facts
+Amazon,2015,Net Income,596000000,USD,2015-01-01,2015-12-31,annual,10-K,2018-02-02,SEC Company Facts
+Amazon,2015,Operating Cash Flow,12039000000,USD,2015-01-01,2015-12-31,annual,10-K,2018-02-02,SEC Company Facts
+Amazon,2015,Operating Income,2233000000,USD,2015-01-01,2015-12-31,annual,10-K,2018-02-02,SEC Company Facts
+Amazon,2016,Assets,83402000000,USD,,2016-12-31,point_in_time,10-K,2019-02-01,SEC Company Facts
+Amazon,2016,Cash,19334000000,USD,,2016-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2016,Cost of Revenue,88265000000,USD,2016-01-01,2016-12-31,annual,10-K,2019-02-01,SEC Company Facts
+Amazon,2016,Equity,19285000000,USD,,2016-12-31,point_in_time,10-K,2020-01-31,SEC Company Facts
+Amazon,2016,Gross Profit,47722000000,USD,,2016-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2016,Liabilities,64117000000,USD,,2016-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2016,Long Term Debt,8838000000,USD,,2016-12-31,point_in_time,10-K,2018-02-02,SEC Company Facts
+Amazon,2016,Net Income,2371000000,USD,2016-01-01,2016-12-31,annual,10-K,2019-02-01,SEC Company Facts
+Amazon,2016,Operating Cash Flow,17203000000,USD,2016-01-01,2016-12-31,annual,10-K,2019-02-01,SEC Company Facts
+Amazon,2016,Operating Income,4186000000,USD,2016-01-01,2016-12-31,annual,10-K,2019-02-01,SEC Company Facts
+Amazon,2016,Revenue,135987000000,USD,2016-01-01,2016-12-31,annual,10-K,2019-02-01,SEC Company Facts
+Amazon,2017,Assets,131310000000,USD,,2017-12-31,point_in_time,10-K,2020-01-31,SEC Company Facts
+Amazon,2017,Cash,20522000000,USD,,2017-12-31,point_in_time,10-K,2019-02-01,SEC Company Facts
+Amazon,2017,Cost of Revenue,111934000000,USD,2017-01-01,2017-12-31,annual,10-K,2020-01-31,SEC Company Facts
+Amazon,2017,Equity,27709000000,USD,,2017-12-31,point_in_time,10-K,2021-02-03,SEC Company Facts
+Amazon,2017,Gross Profit,65932000000,USD,,2017-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2017,Liabilities,103601000000,USD,,2017-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2017,Long Term Debt,24942000000,USD,,2017-12-31,point_in_time,10-K,2019-02-01,SEC Company Facts
+Amazon,2017,Net Income,3033000000,USD,2017-01-01,2017-12-31,annual,10-K,2020-01-31,SEC Company Facts
+Amazon,2017,Operating Cash Flow,18365000000,USD,2017-01-01,2017-12-31,annual,10-K,2020-01-31,SEC Company Facts
+Amazon,2017,Operating Income,4106000000,USD,2017-01-01,2017-12-31,annual,10-K,2020-01-31,SEC Company Facts
+Amazon,2017,Revenue,177866000000,USD,2017-01-01,2017-12-31,annual,10-K,2020-01-31,SEC Company Facts
+Amazon,2018,Assets,162648000000,USD,,2018-12-31,point_in_time,10-K,2021-02-03,SEC Company Facts
+Amazon,2018,Cash,31750000000,USD,,2018-12-31,point_in_time,10-K,2020-01-31,SEC Company Facts
+Amazon,2018,Cost of Revenue,139156000000,USD,2018-01-01,2018-12-31,annual,10-K,2021-02-03,SEC Company Facts
+Amazon,2018,Equity,43549000000,USD,,2018-12-31,point_in_time,10-K,2022-02-04,SEC Company Facts
+Amazon,2018,Gross Profit,93731000000,USD,,2018-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2018,Liabilities,119099000000,USD,,2018-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2018,Long Term Debt,24965000000,USD,,2018-12-31,point_in_time,10-K,2020-01-31,SEC Company Facts
+Amazon,2018,Net Income,10073000000,USD,2018-01-01,2018-12-31,annual,10-K,2021-02-03,SEC Company Facts
+Amazon,2018,Operating Cash Flow,30723000000,USD,2018-01-01,2018-12-31,annual,10-K,2021-02-03,SEC Company Facts
+Amazon,2018,Operating Income,12421000000,USD,2018-01-01,2018-12-31,annual,10-K,2021-02-03,SEC Company Facts
+Amazon,2018,Revenue,232887000000,USD,2018-01-01,2018-12-31,annual,10-K,2021-02-03,SEC Company Facts
+Amazon,2019,Assets,225248000000,USD,,2019-12-31,point_in_time,10-K,2022-02-04,SEC Company Facts
+Amazon,2019,Cash,36092000000,USD,,2019-12-31,point_in_time,10-K,2021-02-03,SEC Company Facts
+Amazon,2019,Cost of Revenue,165536000000,USD,2019-01-01,2019-12-31,annual,10-K,2022-02-04,SEC Company Facts
+Amazon,2019,Equity,62060000000,USD,,2019-12-31,point_in_time,10-K,2023-02-03,SEC Company Facts
+Amazon,2019,Gross Profit,114986000000,USD,,2019-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2019,Liabilities,163188000000,USD,,2019-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2019,Long Term Debt,24820000000,USD,,2019-12-31,point_in_time,10-K,2021-02-03,SEC Company Facts
+Amazon,2019,Net Income,11588000000,USD,2019-01-01,2019-12-31,annual,10-K,2022-02-04,SEC Company Facts
+Amazon,2019,Operating Cash Flow,38514000000,USD,2019-01-01,2019-12-31,annual,10-K,2022-02-04,SEC Company Facts
+Amazon,2019,Operating Income,14541000000,USD,2019-01-01,2019-12-31,annual,10-K,2022-02-04,SEC Company Facts
+Amazon,2019,Revenue,280522000000,USD,2019-01-01,2019-12-31,annual,10-K,2022-02-04,SEC Company Facts
+Amazon,2020,Assets,321195000000,USD,,2020-12-31,point_in_time,10-K,2023-02-03,SEC Company Facts
+Amazon,2020,Cash,42122000000,USD,,2020-12-31,point_in_time,10-K,2022-02-04,SEC Company Facts
+Amazon,2020,Cost of Revenue,233307000000,USD,2020-01-01,2020-12-31,annual,10-K,2023-02-03,SEC Company Facts
+Amazon,2020,Equity,93404000000,USD,,2020-12-31,point_in_time,10-K,2024-02-02,SEC Company Facts
+Amazon,2020,Gross Profit,152757000000,USD,,2020-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2020,Liabilities,227791000000,USD,,2020-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2020,Long Term Debt,33174000000,USD,,2020-12-31,point_in_time,10-K,2022-02-04,SEC Company Facts
+Amazon,2020,Net Income,21331000000,USD,2020-01-01,2020-12-31,annual,10-K,2023-02-03,SEC Company Facts
+Amazon,2020,Operating Cash Flow,66064000000,USD,2020-01-01,2020-12-31,annual,10-K,2023-02-03,SEC Company Facts
+Amazon,2020,Operating Income,22899000000,USD,2020-01-01,2020-12-31,annual,10-K,2023-02-03,SEC Company Facts
+Amazon,2020,Revenue,386064000000,USD,2020-01-01,2020-12-31,annual,10-K,2023-02-03,SEC Company Facts
+Amazon,2021,Assets,420549000000,USD,,2021-12-31,point_in_time,10-K,2024-02-02,SEC Company Facts
+Amazon,2021,Cash,36220000000,USD,,2021-12-31,point_in_time,10-K,2023-02-03,SEC Company Facts
+Amazon,2021,Cost of Revenue,272344000000,USD,2021-01-01,2021-12-31,annual,10-K,2024-02-02,SEC Company Facts
+Amazon,2021,Equity,138245000000,USD,,2021-12-31,point_in_time,10-K,2025-02-07,SEC Company Facts
+Amazon,2021,Gross Profit,197478000000,USD,,2021-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2021,Liabilities,282304000000,USD,,2021-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2021,Long Term Debt,50553000000,USD,,2021-12-31,point_in_time,10-K,2023-02-03,SEC Company Facts
+Amazon,2021,Net Income,33364000000,USD,2021-01-01,2021-12-31,annual,10-K,2024-02-02,SEC Company Facts
+Amazon,2021,Operating Cash Flow,46327000000,USD,2021-01-01,2021-12-31,annual,10-K,2024-02-02,SEC Company Facts
+Amazon,2021,Operating Income,24879000000,USD,2021-01-01,2021-12-31,annual,10-K,2024-02-02,SEC Company Facts
+Amazon,2021,Revenue,469822000000,USD,2021-01-01,2021-12-31,annual,10-K,2024-02-02,SEC Company Facts
+Amazon,2022,Assets,462675000000,USD,,2022-12-31,point_in_time,10-K,2025-02-07,SEC Company Facts
+Amazon,2022,Cash,53888000000,USD,,2022-12-31,point_in_time,10-K,2024-02-02,SEC Company Facts
+Amazon,2022,Cost of Revenue,288831000000,USD,2022-01-01,2022-12-31,annual,10-K,2025-02-07,SEC Company Facts
+Amazon,2022,Equity,146043000000,USD,,2022-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2022,Gross Profit,225152000000,USD,,2022-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2022,Liabilities,316632000000,USD,,2022-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2022,Long Term Debt,70542000000,USD,,2022-12-31,point_in_time,10-K,2024-02-02,SEC Company Facts
+Amazon,2022,Net Income,-2722000000,USD,2022-01-01,2022-12-31,annual,10-K,2025-02-07,SEC Company Facts
+Amazon,2022,Operating Cash Flow,46752000000,USD,2022-01-01,2022-12-31,annual,10-K,2025-02-07,SEC Company Facts
+Amazon,2022,Operating Income,12248000000,USD,2022-01-01,2022-12-31,annual,10-K,2025-02-07,SEC Company Facts
+Amazon,2022,Revenue,513983000000,USD,2022-01-01,2022-12-31,annual,10-K,2025-02-07,SEC Company Facts
+Amazon,2023,Assets,527854000000,USD,,2023-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Cash,73387000000,USD,,2023-12-31,point_in_time,10-K,2025-02-07,SEC Company Facts
+Amazon,2023,Cost of Revenue,304739000000,USD,2023-01-01,2023-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Equity,201875000000,USD,,2023-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Gross Profit,270046000000,USD,,2023-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2023,Liabilities,325979000000,USD,,2023-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2023,Long Term Debt,67182000000,USD,,2023-12-31,point_in_time,10-K,2025-02-07,SEC Company Facts
+Amazon,2023,Net Income,30425000000,USD,2023-01-01,2023-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Operating Cash Flow,84946000000,USD,2023-01-01,2023-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Operating Income,36852000000,USD,2023-01-01,2023-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2023,Revenue,574785000000,USD,2023-01-01,2023-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Assets,624894000000,USD,,2024-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Cash,78779000000,USD,,2024-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Cost of Revenue,326288000000,USD,2024-01-01,2024-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Equity,285970000000,USD,,2024-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Gross Profit,311671000000,USD,,2024-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2024,Liabilities,338924000000,USD,,2024-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2024,Long Term Debt,58000000000,USD,,2024-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Net Income,59248000000,USD,2024-01-01,2024-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Operating Cash Flow,115877000000,USD,2024-01-01,2024-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Operating Income,68593000000,USD,2024-01-01,2024-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2024,Revenue,637959000000,USD,2024-01-01,2024-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Assets,818042000000,USD,,2025-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Cash,86810000000,USD,,2025-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Cost of Revenue,356414000000,USD,2025-01-01,2025-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Equity,411065000000,USD,,2025-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Gross Profit,360510000000,USD,,2025-12-31,annual,Derived,,Derived: Revenue - CostOfGoodsAndServicesSold
+Amazon,2025,Liabilities,406977000000,USD,,2025-12-31,point_in_time,Derived,,Derived: Assets - Equity
+Amazon,2025,Long Term Debt,68836000000,USD,,2025-12-31,point_in_time,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Net Income,77670000000,USD,2025-01-01,2025-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Operating Cash Flow,139514000000,USD,2025-01-01,2025-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Operating Income,79975000000,USD,2025-01-01,2025-12-31,annual,10-K,2026-02-06,SEC Company Facts
+Amazon,2025,Revenue,716924000000,USD,2025-01-01,2025-12-31,annual,10-K,2026-02-06,SEC Company Facts

@@ -1,0 +1,177 @@
+company,fiscal_year,metric,value,unit,period_start,period_end,period_type,form,filed,source
+Microsoft,2007,Cash,6111000000,USD,,2007-06-30,point_in_time,10-K,2010-07-30,SEC Company Facts
+Microsoft,2008,Cash,10339000000,USD,,2008-06-30,point_in_time,10-K,2011-07-28,SEC Company Facts
+Microsoft,2008,Equity,36286000000,USD,,2008-06-30,point_in_time,10-K,2010-07-30,SEC Company Facts
+Microsoft,2008,Gross Profit,48822000000,USD,2007-07-01,2008-06-30,annual,10-K,2010-07-30,SEC Company Facts
+Microsoft,2008,Net Income,17681000000,USD,2007-07-01,2008-06-30,annual,10-K,2010-07-30,SEC Company Facts
+Microsoft,2008,Operating Cash Flow,21612000000,USD,2007-07-01,2008-06-30,annual,10-K,2010-07-30,SEC Company Facts
+Microsoft,2008,Operating Income,22271000000,USD,2007-07-01,2008-06-30,annual,10-K,2010-07-30,SEC Company Facts
+Microsoft,2009,Assets,77888000000,USD,,2009-06-30,point_in_time,10-K,2010-07-30,SEC Company Facts
+Microsoft,2009,Cash,6076000000,USD,,2009-06-30,point_in_time,10-K,2012-07-26,SEC Company Facts
+Microsoft,2009,Equity,39558000000,USD,,2009-06-30,point_in_time,10-K,2011-07-28,SEC Company Facts
+Microsoft,2009,Gross Profit,46282000000,USD,2008-07-01,2009-06-30,annual,10-K,2010-07-30,SEC Company Facts
+Microsoft,2009,Net Income,14569000000,USD,2008-07-01,2009-06-30,annual,10-K,2011-07-28,SEC Company Facts
+Microsoft,2009,Operating Cash Flow,19037000000,USD,2008-07-01,2009-06-30,annual,10-K,2011-07-28,SEC Company Facts
+Microsoft,2009,Operating Income,20363000000,USD,2008-07-01,2009-06-30,annual,10-K,2011-07-28,SEC Company Facts
+Microsoft,2010,Assets,86113000000,USD,,2010-06-30,point_in_time,10-K,2011-07-28,SEC Company Facts
+Microsoft,2010,Cash,5505000000,USD,,2010-06-30,point_in_time,10-K,2013-07-30,SEC Company Facts
+Microsoft,2010,Equity,46175000000,USD,,2010-06-30,point_in_time,10-K,2012-07-26,SEC Company Facts
+Microsoft,2010,Gross Profit,50089000000,USD,2009-07-01,2010-06-30,annual,10-K,2011-07-28,SEC Company Facts
+Microsoft,2010,Liabilities,39938000000,USD,,2010-06-30,point_in_time,10-K,2011-07-28,SEC Company Facts
+Microsoft,2010,Long Term Debt,4900000000,USD,,2010-06-30,point_in_time,10-K,2011-07-28,SEC Company Facts
+Microsoft,2010,Net Income,18760000000,USD,2009-07-01,2010-06-30,annual,10-K,2012-07-26,SEC Company Facts
+Microsoft,2010,Operating Cash Flow,24073000000,USD,2009-07-01,2010-06-30,annual,10-K,2012-07-26,SEC Company Facts
+Microsoft,2010,Operating Income,24098000000,USD,2009-07-01,2010-06-30,annual,10-K,2012-07-26,SEC Company Facts
+Microsoft,2011,Assets,108704000000,USD,,2011-06-30,point_in_time,10-K,2012-07-26,SEC Company Facts
+Microsoft,2011,Cash,9610000000,USD,,2011-06-30,point_in_time,10-K,2014-07-31,SEC Company Facts
+Microsoft,2011,Equity,57083000000,USD,,2011-06-30,point_in_time,10-K,2013-07-30,SEC Company Facts
+Microsoft,2011,Gross Profit,54366000000,USD,2010-07-01,2011-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2011,Liabilities,51621000000,USD,,2011-06-30,point_in_time,10-K,2012-07-26,SEC Company Facts
+Microsoft,2011,Long Term Debt,11900000000,USD,,2011-06-30,point_in_time,10-K,2012-07-26,SEC Company Facts
+Microsoft,2011,Net Income,23150000000,USD,2010-07-01,2011-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2011,Operating Cash Flow,26994000000,USD,2010-07-01,2011-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2011,Operating Income,27161000000,USD,2010-07-01,2011-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2012,Assets,121271000000,USD,,2012-06-30,point_in_time,10-K,2013-07-30,SEC Company Facts
+Microsoft,2012,Cash,6938000000,USD,,2012-06-30,point_in_time,10-K,2015-07-31,SEC Company Facts
+Microsoft,2012,Equity,66363000000,USD,,2012-06-30,point_in_time,10-K,2014-07-31,SEC Company Facts
+Microsoft,2012,Gross Profit,56193000000,USD,2011-07-01,2012-06-30,annual,10-K,2014-07-31,SEC Company Facts
+Microsoft,2012,Liabilities,54908000000,USD,,2012-06-30,point_in_time,10-K,2013-07-30,SEC Company Facts
+Microsoft,2012,Long Term Debt,11900000000,USD,,2012-06-30,point_in_time,10-K,2013-07-30,SEC Company Facts
+Microsoft,2012,Net Income,16978000000,USD,2011-07-01,2012-06-30,annual,10-K,2014-07-31,SEC Company Facts
+Microsoft,2012,Operating Cash Flow,31626000000,USD,2011-07-01,2012-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2012,Operating Income,21763000000,USD,2011-07-01,2012-06-30,annual,10-K,2014-07-31,SEC Company Facts
+Microsoft,2013,Assets,142431000000,USD,,2013-06-30,point_in_time,10-K,2014-07-31,SEC Company Facts
+Microsoft,2013,Cash,3804000000,USD,,2013-06-30,point_in_time,10-K,2016-07-28,SEC Company Facts
+Microsoft,2013,Equity,78944000000,USD,,2013-06-30,point_in_time,10-K,2015-07-31,SEC Company Facts
+Microsoft,2013,Gross Profit,57464000000,USD,2012-07-01,2013-06-30,annual,10-K,2015-07-31,SEC Company Facts
+Microsoft,2013,Liabilities,63487000000,USD,,2013-06-30,point_in_time,10-K,2014-07-31,SEC Company Facts
+Microsoft,2013,Long Term Debt,15600000000,USD,,2013-06-30,point_in_time,10-K,2014-07-31,SEC Company Facts
+Microsoft,2013,Net Income,21863000000,USD,2012-07-01,2013-06-30,annual,10-K,2015-07-31,SEC Company Facts
+Microsoft,2013,Operating Cash Flow,28833000000,USD,2012-07-01,2013-06-30,annual,10-K,2013-07-30,SEC Company Facts
+Microsoft,2013,Operating Income,26764000000,USD,2012-07-01,2013-06-30,annual,10-K,2015-07-31,SEC Company Facts
+Microsoft,2014,Assets,172384000000,USD,,2014-06-30,point_in_time,10-K,2015-07-31,SEC Company Facts
+Microsoft,2014,Cash,8669000000,USD,,2014-06-30,point_in_time,10-K,2017-08-02,SEC Company Facts
+Microsoft,2014,Equity,89784000000,USD,,2014-06-30,point_in_time,10-K,2016-07-28,SEC Company Facts
+Microsoft,2014,Gross Profit,59755000000,USD,2013-07-01,2014-06-30,annual,10-K,2016-07-28,SEC Company Facts
+Microsoft,2014,Liabilities,82600000000,USD,,2014-06-30,point_in_time,10-K,2015-07-31,SEC Company Facts
+Microsoft,2014,Long Term Debt,20600000000,USD,,2014-06-30,point_in_time,10-K,2015-07-31,SEC Company Facts
+Microsoft,2014,Net Income,22074000000,USD,2013-07-01,2014-06-30,annual,10-K,2016-07-28,SEC Company Facts
+Microsoft,2014,Operating Income,27759000000,USD,2013-07-01,2014-06-30,annual,10-K,2016-07-28,SEC Company Facts
+Microsoft,2015,Assets,174472000000,USD,,2015-06-30,point_in_time,10-K,2016-07-28,SEC Company Facts
+Microsoft,2015,Cash,5595000000,USD,,2015-06-30,point_in_time,10-K,2018-08-03,SEC Company Facts
+Microsoft,2015,Equity,80083000000,USD,,2015-06-30,point_in_time,10-K,2017-08-02,SEC Company Facts
+Microsoft,2015,Gross Profit,60542000000,USD,2014-07-01,2015-06-30,annual,10-K,2017-08-02,SEC Company Facts
+Microsoft,2015,Liabilities,94389000000,USD,,2015-06-30,point_in_time,10-K,2016-07-28,SEC Company Facts
+Microsoft,2015,Long Term Debt,30300000000,USD,,2015-06-30,point_in_time,10-K,2016-07-28,SEC Company Facts
+Microsoft,2015,Net Income,12193000000,USD,2014-07-01,2015-06-30,annual,10-K,2017-08-02,SEC Company Facts
+Microsoft,2015,Operating Income,18161000000,USD,2014-07-01,2015-06-30,annual,10-K,2017-08-02,SEC Company Facts
+Microsoft,2016,Assets,193468000000,USD,,2016-06-30,point_in_time,10-K,2017-08-02,SEC Company Facts
+Microsoft,2016,Cash,6510000000,USD,,2016-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2016,Equity,83090000000,USD,,2016-06-30,point_in_time,10-K,2018-08-03,SEC Company Facts
+Microsoft,2016,Gross Profit,58374000000,USD,2015-07-01,2016-06-30,annual,10-K,2018-08-03,SEC Company Facts
+Microsoft,2016,Liabilities,121471000000,USD,,2016-06-30,point_in_time,10-K,2017-08-02,SEC Company Facts
+Microsoft,2016,Long Term Debt,40600000000,USD,,2016-06-30,point_in_time,10-K,2017-08-02,SEC Company Facts
+Microsoft,2016,Net Income,20539000000,USD,2015-07-01,2016-06-30,annual,10-K,2018-08-03,SEC Company Facts
+Microsoft,2016,Operating Cash Flow,33325000000,USD,2015-07-01,2016-06-30,annual,10-K,2018-08-03,SEC Company Facts
+Microsoft,2016,Operating Income,26078000000,USD,2015-07-01,2016-06-30,annual,10-K,2018-08-03,SEC Company Facts
+Microsoft,2016,Revenue,91154000000,USD,2015-07-01,2016-06-30,annual,10-K,2018-08-03,SEC Company Facts
+Microsoft,2017,Assets,250312000000,USD,,2017-06-30,point_in_time,10-K,2018-08-03,SEC Company Facts
+Microsoft,2017,Cash,7663000000,USD,,2017-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Equity,87711000000,USD,,2017-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Gross Profit,62310000000,USD,2016-07-01,2017-06-30,annual,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Liabilities,162601000000,USD,,2017-06-30,point_in_time,10-K,2018-08-03,SEC Company Facts
+Microsoft,2017,Long Term Debt,77100000000,USD,,2017-06-30,point_in_time,10-K,2018-08-03,SEC Company Facts
+Microsoft,2017,Net Income,25489000000,USD,2016-07-01,2017-06-30,annual,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Operating Cash Flow,39507000000,USD,2016-07-01,2017-06-30,annual,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Operating Income,29025000000,USD,2016-07-01,2017-06-30,annual,10-K,2019-08-01,SEC Company Facts
+Microsoft,2017,Revenue,96571000000,USD,2016-07-01,2017-06-30,annual,10-K,2019-08-01,SEC Company Facts
+Microsoft,2018,Assets,258848000000,USD,,2018-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2018,Cash,11946000000,USD,,2018-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2018,Equity,82718000000,USD,,2018-06-30,point_in_time,10-K,2020-07-30,SEC Company Facts
+Microsoft,2018,Gross Profit,72007000000,USD,2017-07-01,2018-06-30,annual,10-K,2020-07-30,SEC Company Facts
+Microsoft,2018,Liabilities,176130000000,USD,,2018-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2018,Long Term Debt,76200000000,USD,,2018-06-30,point_in_time,10-K,2019-08-01,SEC Company Facts
+Microsoft,2018,Net Income,16571000000,USD,2017-07-01,2018-06-30,annual,10-K,2020-07-30,SEC Company Facts
+Microsoft,2018,Operating Cash Flow,43884000000,USD,2017-07-01,2018-06-30,annual,10-K,2020-07-30,SEC Company Facts
+Microsoft,2018,Operating Income,35058000000,USD,2017-07-01,2018-06-30,annual,10-K,2020-07-30,SEC Company Facts
+Microsoft,2018,Revenue,110360000000,USD,2017-07-01,2018-06-30,annual,10-K,2020-07-30,SEC Company Facts
+Microsoft,2019,Assets,286556000000,USD,,2019-06-30,point_in_time,10-K,2020-07-30,SEC Company Facts
+Microsoft,2019,Cash,11356000000,USD,,2019-06-30,point_in_time,10-K,2020-07-30,SEC Company Facts
+Microsoft,2019,Equity,102330000000,USD,,2019-06-30,point_in_time,10-K,2021-07-29,SEC Company Facts
+Microsoft,2019,Gross Profit,82933000000,USD,2018-07-01,2019-06-30,annual,10-K,2021-07-29,SEC Company Facts
+Microsoft,2019,Liabilities,184226000000,USD,,2019-06-30,point_in_time,10-K,2020-07-30,SEC Company Facts
+Microsoft,2019,Long Term Debt,72178000000,USD,,2019-06-30,point_in_time,10-K,2020-07-30,SEC Company Facts
+Microsoft,2019,Net Income,39240000000,USD,2018-07-01,2019-06-30,annual,10-K,2021-07-29,SEC Company Facts
+Microsoft,2019,Operating Cash Flow,52185000000,USD,2018-07-01,2019-06-30,annual,10-K,2021-07-29,SEC Company Facts
+Microsoft,2019,Operating Income,42959000000,USD,2018-07-01,2019-06-30,annual,10-K,2021-07-29,SEC Company Facts
+Microsoft,2019,Revenue,125843000000,USD,2018-07-01,2019-06-30,annual,10-K,2021-07-29,SEC Company Facts
+Microsoft,2020,Assets,301311000000,USD,,2020-06-30,point_in_time,10-K,2021-07-29,SEC Company Facts
+Microsoft,2020,Cash,13576000000,USD,,2020-06-30,point_in_time,10-K,2021-07-29,SEC Company Facts
+Microsoft,2020,Equity,118304000000,USD,,2020-06-30,point_in_time,10-K,2022-07-28,SEC Company Facts
+Microsoft,2020,Gross Profit,96937000000,USD,2019-07-01,2020-06-30,annual,10-K,2022-07-28,SEC Company Facts
+Microsoft,2020,Liabilities,183007000000,USD,,2020-06-30,point_in_time,10-K,2021-07-29,SEC Company Facts
+Microsoft,2020,Long Term Debt,63327000000,USD,,2020-06-30,point_in_time,10-K,2021-07-29,SEC Company Facts
+Microsoft,2020,Net Income,44281000000,USD,2019-07-01,2020-06-30,annual,10-K,2022-07-28,SEC Company Facts
+Microsoft,2020,Operating Cash Flow,60675000000,USD,2019-07-01,2020-06-30,annual,10-K,2022-07-28,SEC Company Facts
+Microsoft,2020,Operating Income,52959000000,USD,2019-07-01,2020-06-30,annual,10-K,2022-07-28,SEC Company Facts
+Microsoft,2020,Revenue,143015000000,USD,2019-07-01,2020-06-30,annual,10-K,2022-07-28,SEC Company Facts
+Microsoft,2021,Assets,333779000000,USD,,2021-06-30,point_in_time,10-K,2022-07-28,SEC Company Facts
+Microsoft,2021,Cash,14224000000,USD,,2021-06-30,point_in_time,10-K,2022-07-28,SEC Company Facts
+Microsoft,2021,Equity,141988000000,USD,,2021-06-30,point_in_time,10-K,2023-07-27,SEC Company Facts
+Microsoft,2021,Gross Profit,115856000000,USD,2020-07-01,2021-06-30,annual,10-K,2023-07-27,SEC Company Facts
+Microsoft,2021,Liabilities,191791000000,USD,,2021-06-30,point_in_time,10-K,2022-07-28,SEC Company Facts
+Microsoft,2021,Long Term Debt,58146000000,USD,,2021-06-30,point_in_time,10-K,2022-07-28,SEC Company Facts
+Microsoft,2021,Net Income,61271000000,USD,2020-07-01,2021-06-30,annual,10-K,2023-07-27,SEC Company Facts
+Microsoft,2021,Operating Cash Flow,76740000000,USD,2020-07-01,2021-06-30,annual,10-K,2023-07-27,SEC Company Facts
+Microsoft,2021,Operating Income,69916000000,USD,2020-07-01,2021-06-30,annual,10-K,2023-07-27,SEC Company Facts
+Microsoft,2021,Revenue,168088000000,USD,2020-07-01,2021-06-30,annual,10-K,2023-07-27,SEC Company Facts
+Microsoft,2022,Assets,364840000000,USD,,2022-06-30,point_in_time,10-K,2023-07-27,SEC Company Facts
+Microsoft,2022,Cash,13931000000,USD,,2022-06-30,point_in_time,10-K,2023-07-27,SEC Company Facts
+Microsoft,2022,Equity,166542000000,USD,,2022-06-30,point_in_time,10-K,2024-07-30,SEC Company Facts
+Microsoft,2022,Gross Profit,135620000000,USD,2021-07-01,2022-06-30,annual,10-K,2024-07-30,SEC Company Facts
+Microsoft,2022,Liabilities,198298000000,USD,,2022-06-30,point_in_time,10-K,2023-07-27,SEC Company Facts
+Microsoft,2022,Long Term Debt,49781000000,USD,,2022-06-30,point_in_time,10-K,2023-07-27,SEC Company Facts
+Microsoft,2022,Net Income,72738000000,USD,2021-07-01,2022-06-30,annual,10-K,2024-07-30,SEC Company Facts
+Microsoft,2022,Operating Cash Flow,89035000000,USD,2021-07-01,2022-06-30,annual,10-K,2024-07-30,SEC Company Facts
+Microsoft,2022,Operating Income,83383000000,USD,2021-07-01,2022-06-30,annual,10-K,2024-07-30,SEC Company Facts
+Microsoft,2022,Revenue,198270000000,USD,2021-07-01,2022-06-30,annual,10-K,2024-07-30,SEC Company Facts
+Microsoft,2023,Assets,411976000000,USD,,2023-06-30,point_in_time,10-K,2024-07-30,SEC Company Facts
+Microsoft,2023,Cash,34704000000,USD,,2023-06-30,point_in_time,10-K,2024-07-30,SEC Company Facts
+Microsoft,2023,Equity,206223000000,USD,,2023-06-30,point_in_time,10-K,2025-07-30,SEC Company Facts
+Microsoft,2023,Gross Profit,146052000000,USD,2022-07-01,2023-06-30,annual,10-K,2025-07-30,SEC Company Facts
+Microsoft,2023,Liabilities,205753000000,USD,,2023-06-30,point_in_time,10-K,2024-07-30,SEC Company Facts
+Microsoft,2023,Long Term Debt,47237000000,USD,,2023-06-30,point_in_time,10-K,2024-07-30,SEC Company Facts
+Microsoft,2023,Net Income,72361000000,USD,2022-07-01,2023-06-30,annual,10-K,2025-07-30,SEC Company Facts
+Microsoft,2023,Operating Cash Flow,87582000000,USD,2022-07-01,2023-06-30,annual,10-K,2025-07-30,SEC Company Facts
+Microsoft,2023,Operating Income,88523000000,USD,2022-07-01,2023-06-30,annual,10-K,2025-07-30,SEC Company Facts
+Microsoft,2023,Revenue,211915000000,USD,2022-07-01,2023-06-30,annual,10-K,2025-07-30,SEC Company Facts
+Microsoft,2024,Assets,512163000000,USD,,2024-06-30,point_in_time,10-K,2025-07-30,SEC Company Facts
+Microsoft,2024,Cash,18315000000,USD,,2024-06-30,point_in_time,10-K,2025-07-30,SEC Company Facts
+Microsoft,2024,Equity,268477000000,USD,,2024-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2024,Gross Profit,171008000000,USD,2023-07-01,2024-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2024,Liabilities,243686000000,USD,,2024-06-30,point_in_time,10-K,2025-07-30,SEC Company Facts
+Microsoft,2024,Long Term Debt,44937000000,USD,,2024-06-30,point_in_time,10-K,2025-07-30,SEC Company Facts
+Microsoft,2024,Net Income,88136000000,USD,2023-07-01,2024-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2024,Operating Cash Flow,118548000000,USD,2023-07-01,2024-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2024,Operating Income,109433000000,USD,2023-07-01,2024-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2024,Revenue,245122000000,USD,2023-07-01,2024-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Assets,619003000000,USD,,2025-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Cash,30242000000,USD,,2025-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Equity,343479000000,USD,,2025-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Gross Profit,193893000000,USD,2024-07-01,2025-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Liabilities,275524000000,USD,,2025-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Long Term Debt,43151000000,USD,,2025-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Net Income,101832000000,USD,2024-07-01,2025-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Operating Cash Flow,136162000000,USD,2024-07-01,2025-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Operating Income,128528000000,USD,2024-07-01,2025-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2025,Revenue,281724000000,USD,2024-07-01,2025-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Assets,758376000000,USD,,2026-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Cash,20935000000,USD,,2026-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Equity,442387000000,USD,,2026-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Gross Profit,225465000000,USD,2025-07-01,2026-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Liabilities,315989000000,USD,,2026-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Long Term Debt,40294000000,USD,,2026-06-30,point_in_time,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Net Income,133749000000,USD,2025-07-01,2026-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Operating Cash Flow,182935000000,USD,2025-07-01,2026-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Operating Income,155237000000,USD,2025-07-01,2026-06-30,annual,10-K,2026-07-29,SEC Company Facts
+Microsoft,2026,Revenue,331839000000,USD,2025-07-01,2026-06-30,annual,10-K,2026-07-29,SEC Company Facts
