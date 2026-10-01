@@ -326,7 +326,7 @@ The company selector allows the same analytical framework to be applied to Apple
 
 ### Preview
 
-![Company Deep Dive](powerbi/company-deep-dive.png)
+![Company Deep Dive](powerbi/company-deep-dive.jpg)
 
 ---
 
