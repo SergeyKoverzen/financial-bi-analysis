@@ -51,7 +51,7 @@ Provides a cross-company overview of:
 
 Companies can be compared across fiscal years using interactive filters.
 
-#### 2. Company Deep Dive
+#### 2. Company Deep Dive [Open Dashboard](powerbi/company-deep-dive.jpg)
 
 Provides a detailed analysis of the selected company:
 
