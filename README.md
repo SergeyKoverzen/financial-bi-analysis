@@ -36,7 +36,7 @@ restated figures, missing periods, and unit/scale mismatches — all of which ha
 
 The Power BI report contains two analytical pages:
 
-#### 1. Financial Overview
+#### 1. Financial Overview [Open Dashboard](/powerbi/financial-overview.jpg)
 
 Provides a cross-company overview of:
 
