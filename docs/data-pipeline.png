@@ -1,1 +1,32 @@
 
+---
+
+# 7. Я бы ещё добавил один файл — `docs/data-pipeline.png`
+
+Туда сделаем простую схему:
+
+```text
+              SEC EDGAR
+                  │
+                  ▼
+          Python / Pandas
+                  │
+                  ▼
+          Data Validation
+                  │
+                  ▼
+               CSV
+                  │
+                  ▼
+             PostgreSQL
+                  │
+        ┌─────────┴─────────┐
+        ▼                   ▼
+   staging layer       analytics layer
+                            │
+                            ▼
+                        Power BI
+                     ┌──────┴──────┐
+                     ▼             ▼
+              Financial       Company
+               Overview       Deep Dive
