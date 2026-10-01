@@ -36,7 +36,7 @@ restated figures, missing periods, and unit/scale mismatches — all of which ha
 
 The Power BI report contains two analytical pages:
 
-#### 1. Financial Overview [Open Dashboard](/powerbi/financial-overview.jpg)
+#### 1. Financial Overview   [Open Dashboard](/powerbi/financial-overview.jpg)
 
 Provides a cross-company overview of:
 
@@ -51,7 +51,7 @@ Provides a cross-company overview of:
 
 Companies can be compared across fiscal years using interactive filters.
 
-#### 2. Company Deep Dive [Open Dashboard](powerbi/company-deep-dive.jpg)
+#### 2. Company Deep Dive   [Open Dashboard](powerbi/company-deep-dive.jpg)
 
 Provides a detailed analysis of the selected company:
 
